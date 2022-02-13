@@ -14,7 +14,7 @@ PortalDotsには、学園祭運営に欠かせないさまざまな業務を効�
 
 ## PortalDotsを使い始める
 
-{% content-ref url="settoappu/" %}
-[settoappu](settoappu/)
+{% content-ref url="setup/" %}
+[setup](setup/)
 {% endcontent-ref %}
 

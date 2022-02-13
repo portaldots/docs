@@ -1,10 +1,10 @@
 # Table of contents
 
 * [PortalDotsマニュアル](README.md)
-* [セットアップ方法](settoappu/README.md)
-  * [ロリポップ！レンタルサーバーに PortalDotsをインストールする](settoappu/roripoppurentarusbni-portaldotswoinsutrusuru/README.md)
-    * [ステップ1. ロリポップ！レンタルサーバーに申し込む（無料お試しあり）](settoappu/roripoppurentarusbni-portaldotswoinsutrusuru/suteppu1-roripoppurentarusbnishimuoshiari.md)
-    * [ステップ2. データベースを作成する](settoappu/roripoppurentarusbni-portaldotswoinsutrusuru/suteppu2-dtabsuwosuru.md)
+* [🛠 セットアップ方法](setup/README.md)
+  * [ロリポップ！レンタルサーバーに PortalDotsをインストールする](setup/lollipop/README.md)
+    * [ステップ1. ロリポップ！レンタルサーバーに申し込む（無料お試しあり）](setup/lollipop/step-1.md)
+    * [ステップ2. データベースを作成する](setup/lollipop/step-2.md)
 
 ## Guides
 
