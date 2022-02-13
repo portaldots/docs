@@ -1,5 +1,9 @@
 # PortalDotsマニュアル
 
+{% hint style="info" %}
+**This document is a work in progress.**
+{% endhint %}
+
 PortalDots（ポータルドット）は、「学園祭実行委員会と参加企画のコミュニケーションを支援するウェブシステム」です。
 
 ## PortalDotsでできること
