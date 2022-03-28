@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # PortalDotsマニュアル
 
 ![](<.gitbook/assets/image (1).png>)
@@ -46,7 +42,11 @@ PortalDotsを学園祭実行委員会に導入するにあたり、よくある�
 
 ### 機能
 
+PortalDotsの基本機能と、それらの使い方をご紹介します。
 
+{% content-ref url="features/portaldotsdedekirukoto.md" %}
+[portaldotsdedekirukoto.md](features/portaldotsdedekirukoto.md)
+{% endcontent-ref %}
 
 ### PortalDotsの導入
 
