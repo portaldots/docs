@@ -8,7 +8,7 @@
 [lollipop](lollipop/)
 {% endcontent-ref %}
 
-{% content-ref url="koasbni-portaldotswoinsutrusuru/" %}
-[koasbni-portaldotswoinsutrusuru](koasbni-portaldotswoinsutrusuru/)
+{% content-ref url="coreserver/" %}
+[coreserver](coreserver/)
 {% endcontent-ref %}
 

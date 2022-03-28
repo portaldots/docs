@@ -17,7 +17,7 @@ description: データベースとメールサーバーの確認ができたら�
 5. [PortalDots.zip](https://github.com/portal-dots/PortalDots/releases/latest/download/PortalDots.zip) をダウンロードし、展開します。
 6. 展開してできたフォルダの中身を全て「public\_html」フォルダ内へアップロードします。Cyberduckの場合、Finder(macOSの場合)またはエクスプローラー(Windowsの場合)からファイルをドラッグ&ドロップしてください。
    * 隠しファイル(ドットで始まるファイル)も含めてアップロードしてください。macOS や Linux などの OS では、デフォルトではこれらのファイルは非表示になっています。macOS の場合、Finder で Command + Shift + . を押すと隠しファイルが表示されます。\
-     ![](<../../../.gitbook/assets/image (3) (1).png>)
+     ![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 7. アップロードには5分〜10分程度時間がかかりますので、お待ちください。
 8. アップロードが完了したら、コアサーバーのコントロールパネルにログインします。
 9. 画面左のメニューから「ドメイン」をクリックします。

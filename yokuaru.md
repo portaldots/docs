@@ -58,13 +58,13 @@ PortalDots をインストール可能なレンタルサーバー（PHP 7.3 以�
 
 PortalDots は、「登録したらすぐ使えるサービス」ではありません。レンタルサーバーの契約、FTP ソフトの利用方法などにおいて、ある程度 IT に関する知識が必要になります。
 
-とはいえ、プログラミングの知識は必要ありません。[セットアップ方法のマニュアル](setup/portaldotsnoinsutru/)では、手順通りに作業を行うことで PortalDots を導入することができるよう、できる限り詳細に説明しています。
+とはいえ、プログラミングの知識は必要ありません。[セットアップ方法のマニュアル](setup/install/)では、手順通りに作業を行うことで PortalDots を導入することができるよう、できる限り詳細に説明しています。
 
 #### Q. PortalDots はどうやって導入するのでしょうか? <a href="#q-portaldots-hadouyattesurunodeshouka" id="q-portaldots-hadouyattesurunodeshouka"></a>
 
 **A. PortalDots に対応したレンタルサーバーを契約し、そのサーバーにインストールすることで導入できます。**
 
-参考として、PortalDots 公式サイトでは[ロリポップ！レンタルサーバー](setup/portaldotsnoinsutru/lollipop/)、[コアサーバー](https://www.portaldots.com/docs/setup/coreserver/about/)に PortalDots をインストールする方法を紹介しています。
+参考として、PortalDots 公式サイトでは[ロリポップ！レンタルサーバー](setup/install/lollipop/)、[コアサーバー](https://www.portaldots.com/docs/setup/coreserver/about/)に PortalDots をインストールする方法を紹介しています。
 
 また、これら以外のレンタルサーバーでも、おおむね下記の方法で PortalDots をインストールすることができます。
 

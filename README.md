@@ -1,6 +1,10 @@
+---
+layout: landing
+---
+
 # PortalDotsマニュアル
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 PortalDots マニュアルへようこそ！本マニュアルでは、オープンソースの学園祭運営ウェブシステム「[PortalDots（ポータルドット）](https://www.portaldots.com)」の使い方を紹介しています。
 
@@ -40,11 +44,20 @@ PortalDotsを学園祭実行委員会に導入するにあたり、よくある�
 [yokuaru.md](yokuaru.md)
 {% endcontent-ref %}
 
+### 機能
+
+
+
 ### PortalDotsの導入
 
 PortalDotsはWordPressなどのソフトウェアのように、レンタルサーバーにインストールして利用できます。ここでは、レンタルサーバーにPortalDotsをインストールする方法をご説明します。
 
-{% content-ref url="setup/portaldotsnoinsutru/" %}
-[portaldotsnoinsutru](setup/portaldotsnoinsutru/)
+{% content-ref url="setup/install/" %}
+[install](setup/install/)
 {% endcontent-ref %}
 
+PortalDotsのインストールが完了したら、学園祭参加企画の担当者と学園祭実行委員会のメンバーにもPortalDotsのユーザー登録をしてもらいましょう。
+
+{% content-ref url="setup/user-registration.md" %}
+[user-registration.md](setup/user-registration.md)
+{% endcontent-ref %}
