@@ -4,7 +4,7 @@ description: ロリポップ！レンタルサーバーに PortalDotsをイン�
 
 # ロリポップ！レンタルサーバーに PortalDotsをインストールする
 
-{% hint style="warning" %}
+{% hint style="info" %}
 ここでは、PortalDots 3 以上について説明しています。PortalDots 1 はさくらのレンタルサーバーでのみ動作します。
 {% endhint %}
 
