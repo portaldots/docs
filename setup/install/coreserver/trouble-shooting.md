@@ -16,7 +16,7 @@ description: コアサーバー上でPortalDotsをセットアップしている
 SSL の設定をしていない状態で、「ポータルの情報」設定の「https 接続を強制する」にチェックを入れると、PortalDots にアクセスできなくなります。
 
 * SSL の設定をしたにも関わらず PortalDots にアクセスできなくなった場合、サーバー側の SSL 設定の処理が完了していない可能性があります。しばらく待ってから再度 PortalDots にアクセスしてください。
-* SSL の設定をしていない場合、「[4. 通信を暗号化するために SSL を設定する(無料)](step-4.md)」に従って SSL の設定をした後、しばらく待ってから再度 PortalDots にアクセスしてください。
+* SSL の設定をしていない場合、「[4. 通信を暗号化するために SSL を設定する(無料)](ssl.md)」に従って SSL の設定をした後、しばらく待ってから再度 PortalDots にアクセスしてください。
 
 ## それでも解決しないとき <a href="#soredemoshinaitoki" id="soredemoshinaitoki"></a>
 
