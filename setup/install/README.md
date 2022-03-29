@@ -4,8 +4,8 @@
 
 
 
-{% content-ref url="lollipop/" %}
-[lollipop](lollipop/)
+{% content-ref url="lolipop/" %}
+[lolipop](lolipop/)
 {% endcontent-ref %}
 
 {% content-ref url="coreserver/" %}

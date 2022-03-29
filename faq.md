@@ -64,7 +64,7 @@ PortalDots は、「登録したらすぐ使えるサービス」ではありま
 
 **A. PortalDots に対応したレンタルサーバーを契約し、そのサーバーにインストールすることで導入できます。**
 
-参考として、PortalDots 公式サイトでは[ロリポップ！レンタルサーバー](setup/install/lollipop/)、[コアサーバー](setup/install/coreserver/)に PortalDots をインストールする方法を紹介しています。
+参考として、PortalDots 公式サイトでは[ロリポップ！レンタルサーバー](setup/install/lolipop/)、[コアサーバー](setup/install/coreserver/)に PortalDots をインストールする方法を紹介しています。
 
 また、これら以外のレンタルサーバーでも、おおむね下記の方法で PortalDots をインストールすることができます。
 
