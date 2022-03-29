@@ -58,6 +58,6 @@ PortalDotsのインストールが完了したら、学園祭参加企画の担�
 
 PortalDotsの基本機能と、それらの使い方をご紹介します。
 
-{% content-ref url="features/portaldotsdedekirukoto.md" %}
-[portaldotsdedekirukoto.md](features/portaldotsdedekirukoto.md)
+{% content-ref url="features/list.md" %}
+[list.md](features/list.md)
 {% endcontent-ref %}
