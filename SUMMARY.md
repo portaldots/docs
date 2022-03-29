@@ -1,7 +1,7 @@
 # Table of contents
 
 * [PortalDotsマニュアル](README.md)
-* [よくある質問](yokuaru.md)
+* [よくある質問](faq.md)
 
 ## 🛠 PortalDotsの導入 <a href="#setup" id="setup"></a>
 

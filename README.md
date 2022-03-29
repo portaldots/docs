@@ -36,8 +36,8 @@ PortalDotsには、学園祭運営に欠かせないさまざまな業務を効�
 
 PortalDotsを学園祭実行委員会に導入するにあたり、よくある質問をご紹介します。
 
-{% content-ref url="yokuaru.md" %}
-[yokuaru.md](yokuaru.md)
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
 {% endcontent-ref %}
 
 ### PortalDotsの導入
