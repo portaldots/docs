@@ -3,13 +3,6 @@
 * [PortalDotsマニュアル](README.md)
 * [よくある質問](yokuaru.md)
 
-## 👍 機能 <a href="#features" id="features"></a>
-
-* [PortalDotsでできること](features/portaldotsdedekirukoto.md)
-* [PortalDotsを使って企画参加登録を受け付ける](features/circle-registration.md)
-* [学園祭参加企画向けのお知らせを掲載・メール配信する](features/pages.md)
-* [学園祭参加企画にPDFなどのファイルを配布する](features/documents.md)
-
 ## 🛠 PortalDotsの導入 <a href="#setup" id="setup"></a>
 
 * [PortalDotsのインストール](setup/install/README.md)
@@ -31,3 +24,11 @@
     * [ステップ7. メールの一斉配信機能のセットアップ(CRONの設定)](setup/install/coreserver/step-7.md)
     * [こんなときはどうする？](setup/install/coreserver/trouble-shooting.md)
 * [PortalDotsのユーザー登録をしてもらう](setup/user-registration.md)
+
+## 👍 基本機能 <a href="#features" id="features"></a>
+
+* [PortalDotsでできること](features/portaldotsdedekirukoto.md)
+* [PortalDotsを使って企画参加登録を受け付ける](features/circle-registration.md)
+* [学園祭参加企画向けのお知らせを掲載・メール配信する](features/pages.md)
+* [学園祭参加企画にPDFなどのファイルを配布する](features/documents.md)
+* [学園祭当日に使用できる場所の一覧や各企画への場所の割り当てを管理する](features/places.md)

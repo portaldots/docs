@@ -40,14 +40,6 @@ PortalDotsを学園祭実行委員会に導入するにあたり、よくある�
 [yokuaru.md](yokuaru.md)
 {% endcontent-ref %}
 
-### 機能
-
-PortalDotsの基本機能と、それらの使い方をご紹介します。
-
-{% content-ref url="features/portaldotsdedekirukoto.md" %}
-[portaldotsdedekirukoto.md](features/portaldotsdedekirukoto.md)
-{% endcontent-ref %}
-
 ### PortalDotsの導入
 
 PortalDotsはWordPressなどのソフトウェアのように、レンタルサーバーにインストールして利用できます。ここでは、レンタルサーバーにPortalDotsをインストールする方法をご説明します。
@@ -60,4 +52,12 @@ PortalDotsのインストールが完了したら、学園祭参加企画の担�
 
 {% content-ref url="setup/user-registration.md" %}
 [user-registration.md](setup/user-registration.md)
+{% endcontent-ref %}
+
+### 機能
+
+PortalDotsの基本機能と、それらの使い方をご紹介します。
+
+{% content-ref url="features/portaldotsdedekirukoto.md" %}
+[portaldotsdedekirukoto.md](features/portaldotsdedekirukoto.md)
 {% endcontent-ref %}
