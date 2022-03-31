@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PortalDotsマニュアル](README.md)
+* [📘 PortalDotsマニュアル](README.md)
 * [よくある質問](faq.md)
 * [アップデート情報](https://github.com/portal-dots/PortalDots/discussions/categories/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1)
 
