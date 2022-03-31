@@ -1,4 +1,4 @@
-# PortalDotsマニュアル
+# 📘 PortalDotsマニュアル
 
 ![](<.gitbook/assets/image (1).png>)
 
@@ -40,4 +40,10 @@ PortalDotsの基本機能と、それらの使い方をご紹介します。
 
 {% content-ref url="features/list.md" %}
 [list.md](features/list.md)
+{% endcontent-ref %}
+
+### もっと使いこなす
+
+{% content-ref url="advanced/markdown-guide.md" %}
+[markdown-guide.md](advanced/markdown-guide.md)
 {% endcontent-ref %}

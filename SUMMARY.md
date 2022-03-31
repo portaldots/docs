@@ -35,3 +35,7 @@
 * [学園祭参加企画にPDFなどのファイルを配布する](features/documents.md)
 * [学園祭当日に使用できる場所の一覧や各企画への場所の割り当てを管理する](features/places.md)
 * [学園祭参加企画からの各種申請をオンラインで受け付ける](features/forms.md)
+
+## 💪 もっと使いこなす <a href="#advanced" id="advanced"></a>
+
+* [Markdownガイド](advanced/markdown-guide.md)

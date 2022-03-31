@@ -25,4 +25,4 @@ description: データベースとメールサーバーの確認ができたら�
    * 「ロリポップ！のドメイン」が「 〇〇.capoo.jp 」の場合、「 [https://〇〇.capoo.jp](https://xn--w6ja.capoo.jp) 」にアクセスしてください。
 10. 「PortalDotsへようこそ！」という画面が表示されたら、アップロード完了です。
 
-![](<../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../.gitbook/assets/image (4) (1) (1).png>)

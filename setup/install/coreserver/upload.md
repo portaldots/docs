@@ -26,4 +26,4 @@ description: データベースとメールサーバーの確認ができたら�
     * 先ほど確認したURLが「〇〇.△△.coreserver.jp」の場合、「 https://〇〇.△△.coreserver.jp 」にアクセスしてください。
 12. 「PortalDotsへようこそ！」という画面が表示されたら、アップロード完了です。
 
-![](<../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../.gitbook/assets/image (4) (1) (1).png>)
