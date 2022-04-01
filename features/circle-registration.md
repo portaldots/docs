@@ -61,3 +61,7 @@ PortalDotsの「企画参加登録」機能を有効にすると、学園祭へ�
 {% hint style="info" %}
 「登録受理状況」を「受理」または「不受理」にチェックを入れると、その企画のメンバーに対し、企画が受理された(されなかった)旨が記載されたメールが送信されます。
 {% endhint %}
+
+{% hint style="info" %}
+企画編集画面に表示されるその他の入力項目についての詳細は、「[学園祭参加企画を手動でPortalDotsに登録・編集する](../advanced/manual-circle-registration.md#no)」をご覧ください。
+{% endhint %}

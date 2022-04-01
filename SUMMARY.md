@@ -38,5 +38,5 @@
 
 ## 💪 もっと使いこなす <a href="#advanced" id="advanced"></a>
 
-* [学園祭参加企画を手動でPortalDotsに登録・編集する](advanced/manual-circle-registration.md)
+* [学園祭参加企画を手動でPortalDotsに登録・編集する](advanced/manual-circle-registration.md)
 * [Markdownガイド](advanced/markdown-guide.md)
