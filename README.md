@@ -44,6 +44,10 @@ PortalDotsの基本機能と、それらの使い方をご紹介します。
 
 ### もっと使いこなす
 
+{% content-ref url="advanced/manual-circle-registration.md" %}
+[manual-circle-registration.md](advanced/manual-circle-registration.md)
+{% endcontent-ref %}
+
 {% content-ref url="advanced/markdown-guide.md" %}
 [markdown-guide.md](advanced/markdown-guide.md)
 {% endcontent-ref %}
