@@ -10,7 +10,7 @@ PortalDotsの「配布資料」機能を利用することで、PortalDotsで構
 
 「配布資料」機能で配布する資料として PDF の他、Word や Excel ファイル、画像ファイルなどをアップロードすることができます。
 
-![配布資料PDFのイメージ](<../.gitbook/assets/image (8).png>)
+![配布資料の一覧画面](<../.gitbook/assets/documents-list.png>)
 
 ## 「配布資料」をアップロードする <a href="#woappurdosuru" id="woappurdosuru"></a>
 
