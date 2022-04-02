@@ -30,6 +30,7 @@
 ## 👍 基本機能 <a href="#features" id="features"></a>
 
 * [PortalDotsでできること](features/list.md)
+* [「一般モード」と「スタッフモード」](features/modes.md)
 * [PortalDotsを使って企画参加登録を受け付ける](features/circle-registration.md)
 * [学園祭参加企画向けのお知らせを掲載・メール配信する](features/pages.md)
 * [学園祭参加企画にPDFなどのファイルを配布する](features/documents.md)
