@@ -1,6 +1,6 @@
 # 📘 PortalDotsマニュアル
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 PortalDots マニュアルへようこそ！本マニュアルでは、オープンソースの学園祭運営ウェブシステム「[PortalDots（ポータルドット）](https://www.portaldots.com)」の使い方を紹介しています。
 
@@ -38,6 +38,10 @@ PortalDotsのインストールが完了したら、学園祭参加企画の担�
 
 PortalDotsの基本機能と、それらの使い方をご紹介します。
 
+{% content-ref url="features/modes.md" %}
+[modes.md](features/modes.md)
+{% endcontent-ref %}
+
 {% content-ref url="features/list.md" %}
 [list.md](features/list.md)
 {% endcontent-ref %}
@@ -46,6 +50,10 @@ PortalDotsの基本機能と、それらの使い方をご紹介します。
 
 {% content-ref url="advanced/manual-circle-registration.md" %}
 [manual-circle-registration.md](advanced/manual-circle-registration.md)
+{% endcontent-ref %}
+
+{% content-ref url="advanced/form-editor.md" %}
+[form-editor.md](advanced/form-editor.md)
 {% endcontent-ref %}
 
 {% content-ref url="advanced/markdown-guide.md" %}

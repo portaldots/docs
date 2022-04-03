@@ -11,7 +11,7 @@ description: データベースとメールサーバーの確認ができたら�
 1. コアサーバー申込み時に届くメール（件名 : CORESERVER.JP NEW SIGNUP）に記載されている「**アカウント名(FTPユーザー名)**」「**パスワード**」「**ＦＴＰサーバー**」を確認、メモします。
 2. FTPソフトでFTP接続します。FTPソフトをインストールしていない場合、Cyberduckがお勧めです。設定方法はロリポップ！レンタルサーバーのサポートページに掲載されています([Macの場合](https://lolipop.jp/manual/hp/m-cyberduck/) / [Windowsの場合](https://lolipop.jp/manual/hp/w-cyberduck/))。
    * Cyberduckの場合、「環境設定」内の「ブラウザ」タブにある「'.'で始まるファイルを表示」にチェックを入れてください\
-     ![](<../../../.gitbook/assets/image (2).png>)
+     ![](<../../../.gitbook/assets/image (2) (1).png>)
 3. Cyberduckの画面上の「public\_html」フォルダをダブルクリックして開きます。
 4. 初期状態ではいくつかのファイルが設置されています。これらは不要なため、ファイル上で右クリックして削除します。
 5. [PortalDots.zip](https://github.com/portal-dots/PortalDots/releases/latest/download/PortalDots.zip) をダウンロードし、展開します。

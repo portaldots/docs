@@ -14,7 +14,7 @@ description: データベースとメールサーバーの確認ができたら�
    * 「FTP・WebDAVパスワード」は、「表示」ボタンを押すと確認できます。
 4. FTPソフトでFTP接続します。FTPソフトをインストールしていない場合、Cyberduckがお勧めです。設定方法はロリポップ！レンタルサーバーのサポートページに掲載されています([Macの場合](https://lolipop.jp/manual/hp/m-cyberduck/) / [Windowsの場合](https://lolipop.jp/manual/hp/w-cyberduck/))。
    * Cyberduckの場合、「環境設定」内の「ブラウザ」タブにある「'.'で始まるファイルを表示」にチェックを入れてください\
-     ![](<../../../.gitbook/assets/image (2).png>)
+     ![](<../../../.gitbook/assets/image (2) (1).png>)
 5. 初期状態では welcome.html というファイルが設置されています。不要なため、welcome.html を右クリックして削除します。
 6. [PortalDots.zip](https://github.com/portal-dots/PortalDots/releases/latest/download/PortalDots.zip) をダウンロードし、展開します。
 7. 展開してできたフォルダの中身を全てアップロードします。Cyberduckの場合、Finder(macOSの場合)またはエクスプローラー(Windowsの場合)からファイルをドラッグ&ドロップしてください。
