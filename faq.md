@@ -2,7 +2,9 @@
 
 ## 🤔 PortalDots について <a href="#portaldots-nitsuite" id="portaldots-nitsuite"></a>
 
-### Q. PortalDots とは何ですか? <a href="#q-portaldots-tohadesuka" id="q-portaldots-tohadesuka"></a>
+<details>
+
+<summary>Q. PortalDots とは何ですか?</summary>
 
 **A. 学園祭の運営をサポートする、学園祭実行委員会向けのウェブシステムです。**
 
@@ -13,6 +15,8 @@
 * 各種申請フォームは、Google フォームのように直感的に作成できます
 * ウェブシステムには学生のみがユーザー登録・ログインできるため、セキュリティを確保できます
 * それぞれの参加サークルが利用する教室・ブースなどの場所を管理できます
+
+</details>
 
 ### Q. PortalDots は誰が作っているのですか? <a href="#q-portaldots-hagatteirunodesuka" id="q-portaldots-hagatteirunodesuka"></a>
 
