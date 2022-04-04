@@ -42,3 +42,7 @@
 * [学園祭参加企画を手動でPortalDotsに登録・編集する](advanced/manual-circle-registration.md)
 * [フォームエディターで申請フォームを作成する](advanced/form-editor.md)
 * [Markdownガイド](advanced/markdown-guide.md)
+
+## 🧑‍💻 開発に貢献する <a href="#contributing" id="contributing"></a>
+
+* [PortalDotsの開発に貢献する](contributing/how-to-contribute.md)
