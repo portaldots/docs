@@ -59,3 +59,9 @@ PortalDotsの基本機能と、それらの使い方をご紹介します。
 {% content-ref url="advanced/markdown-guide.md" %}
 [markdown-guide.md](advanced/markdown-guide.md)
 {% endcontent-ref %}
+
+### 開発に貢献する
+
+{% content-ref url="contributing/how-to-contribute.md" %}
+[how-to-contribute.md](contributing/how-to-contribute.md)
+{% endcontent-ref %}
