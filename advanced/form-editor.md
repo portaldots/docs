@@ -9,7 +9,7 @@ description: >-
 
 PortalDotsの「フォームエディター」を利用すると、プログラミング不要の直観的な操作で申請フォームを作成することができます。
 
-{% embed url="https://vimeo.com/695359407" %}
+{% embed url="https://www.youtube.com/watch?v=pjUXifRVE-Y" %}
 フォームエディター
 {% endembed %}
 
