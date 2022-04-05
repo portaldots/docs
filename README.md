@@ -34,7 +34,7 @@ PortalDotsのインストールが完了したら、学園祭参加企画の担�
 [user-registration.md](setup/user-registration.md)
 {% endcontent-ref %}
 
-### 機能
+### 基本機能
 
 PortalDotsの基本機能と、それらの使い方をご紹介します。
 
@@ -44,6 +44,14 @@ PortalDotsの基本機能と、それらの使い方をご紹介します。
 
 {% content-ref url="features/list.md" %}
 [list.md](features/list.md)
+{% endcontent-ref %}
+
+### 学園祭参加企画向けの機能
+
+PortalDotsの機能のうち、学園祭の参加企画向けの機能をご紹介します。
+
+{% content-ref url="circles/list.md" %}
+[list.md](circles/list.md)
 {% endcontent-ref %}
 
 ### もっと使いこなす
