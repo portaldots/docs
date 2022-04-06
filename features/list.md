@@ -26,15 +26,12 @@ PortalDotsには、学園祭実行委員会が学園祭を作り上げるため�
 
 {% content-ref url="forms.md" %}
 [forms.md](forms.md)
+
+{% content-ref url="contact-form.md" %}
+[contact-form.md](contact-form.md)
 {% endcontent-ref %}
 
 
-
-## その他の機能
-
-まだこのマニュアルに掲載できていない機能のうち、PortalDotsの便利な機能を箇条書きで紹介します。
-
-* **お問い合わせ受付機能** — PortalDots上にお問い合せフォームを設置できる機能。お問い合わせの要件に応じてメールを振り分けることも可能。
 
 {% hint style="info" %}
 PortalDotsの機能のうち、学園祭の参加企画が利用可能な機能については「[PortalDotsでできること(一般モード)](../circles/list.md)」をご覧ください。

@@ -36,6 +36,7 @@
 * [学園祭参加企画にPDFなどのファイルを配布する](features/documents.md)
 * [学園祭当日に使用できる場所の一覧や各企画への場所の割り当てを管理する](features/places.md)
 * [学園祭参加企画からの各種申請をオンラインで受け付ける](features/forms.md)
+* [学園祭参加企画からのお問い合わせを受け付ける](features/contact-form.md)
 
 ## 🍴 学園祭参加企画向けの機能 <a href="#circles" id="circles"></a>
 
