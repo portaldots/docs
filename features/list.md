@@ -26,6 +26,7 @@ PortalDotsには、学園祭実行委員会が学園祭を作り上げるため�
 
 {% content-ref url="forms.md" %}
 [forms.md](forms.md)
+{% endcontent-ref %}
 
 {% content-ref url="contact-form.md" %}
 [contact-form.md](contact-form.md)
