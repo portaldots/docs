@@ -73,3 +73,7 @@ PortalDotsの機能のうち、学園祭の参加企画向けの機能をご紹�
 {% content-ref url="contributing/how-to-contribute.md" %}
 [how-to-contribute.md](contributing/how-to-contribute.md)
 {% endcontent-ref %}
+
+{% content-ref url="contributing/directories.md" %}
+[directories.md](contributing/directories.md)
+{% endcontent-ref %}

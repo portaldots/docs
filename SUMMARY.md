@@ -51,3 +51,4 @@
 ## 🧑‍💻 開発に貢献する <a href="#contributing" id="contributing"></a>
 
 * [PortalDotsの開発に貢献する](contributing/how-to-contribute.md)
+* [PortalDotsのディレクトリ構造](contributing/directories.md)
