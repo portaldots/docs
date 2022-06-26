@@ -12,7 +12,7 @@ description: データベースとメールサーバーの確認ができたら�
 2. 画面左のメニューから「ユーザー設定」を選び、「アカウント情報」をクリックします
 3. 「サーバー情報」にある「**FTPSサーバー**」「**FTP・WebDAVアカウント**」「**FTP・WebDAVパスワード**」を確認、メモします
    * 「FTP・WebDAVパスワード」は、「表示」ボタンを押すと確認できます。
-4. FTPソフトでFTP接続します。FTPソフトをインストールしていない場合、Cyberduckがお勧めです。設定方法はロリポップ！レンタルサーバーのサポートページに掲載されています([Macの場合](https://lolipop.jp/manual/hp/m-cyberduck/) / [Windowsの場合](https://lolipop.jp/manual/hp/w-cyberduck/))。
+4. FTPソフトでFTP接続します。FTPソフトをインストールしていない場合、Cyberduckがお勧めです。設定方法はエックスサーバーのサポートページに掲載されています([Macの場合](https://lolipop.jp/manual/hp/m-cyberduck/) / [Windowsの場合](https://lolipop.jp/manual/hp/w-cyberduck/))。
    * Cyberduckの場合、「環境設定」内の「ブラウザ」タブにある「'.'で始まるファイルを表示」にチェックを入れてください\
      ![](<../../../.gitbook/assets/image (2) (1).png>)
 5. 初期状態では welcome.html というファイルが設置されています。不要なため、welcome.html を右クリックして削除します。
