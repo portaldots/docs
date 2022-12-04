@@ -1,6 +1,6 @@
 # 📘 PortalDotsマニュアル
 
-![](<.gitbook/assets/image (1) (1).png>)
+<figure><img src=".gitbook/assets/eyecatch.png" alt="PortalDotsのホーム画面（パソコン版とスマートフォン版）"><figcaption></figcaption></figure>
 
 PortalDots マニュアルへようこそ！本マニュアルでは、オープンソースの学園祭運営ウェブシステム「[PortalDots（ポータルドット）](https://www.portaldots.com)」の使い方を紹介しています。
 
@@ -9,8 +9,6 @@ PortalDots（ポータルドット）は、「学園祭実行委員会と参加�
 PortalDotsには、学園祭運営に欠かせないさまざまな業務を効率的に実施できるようにする、様々な機能があります。
 
 ## マニュアルの目次
-
-
 
 ### よくある質問
 
