@@ -27,3 +27,9 @@ description: データベースとメールサーバーの確認ができたら�
 12. 「PortalDotsへようこそ！」という画面が表示されたら、アップロード完了です。
 
 ![](<../../../.gitbook/assets/image (1).png>)
+
+{% hint style="info" %}
+「PortalDotsへようこそ！」の画面が表示されず、 `Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= x.x.x".` のような画面が表示される場合、PHPバージョンの変更が必要です。
+
+[コアサーバーのマニュアル](https://help.coreserver.jp/manual/v2/php-version/)を参考に、PHPバージョンを**8.0以上に変更**してください。
+{% endhint %}
