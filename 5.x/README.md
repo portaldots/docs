@@ -2,7 +2,7 @@
 description: PortalDots マニュアルへようこそ！PortalDotsを使えば、学園祭運営に欠かせないさまざまな業務を、より効率的に実施できます。
 ---
 
-# 📘 PortalDotsマニュアル
+# 📘 PortalDots 5
 
 <figure><img src=".gitbook/assets/eyecatch.png" alt="PortalDotsのホーム画面（パソコン版とスマートフォン版）"><figcaption></figcaption></figure>
 
