@@ -4,12 +4,6 @@ description: PortalDots マニュアルへようこそ！PortalDotsを使えば�
 
 # 📘 PortalDotsマニュアル
 
-{% hint style="danger" %}
-**このページは、2023年春頃にリリースを予定しているバージョン5のマニュアルです。**
-
-PortalDots 4をご利用の場合は、[最新版のマニュアル](https://docs.portaldots.com)をご利用ください。
-{% endhint %}
-
 <figure><img src=".gitbook/assets/eyecatch.png" alt="PortalDotsのホーム画面（パソコン版とスマートフォン版）"><figcaption></figcaption></figure>
 
 
