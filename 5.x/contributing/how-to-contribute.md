@@ -6,7 +6,7 @@ PortalDotsでは、「作る人」と「使う人」という関係性に留ま�
 
 ## 貢献の方法
 
-PortalDotsにおける改善要望・不具合報告、Pull Requestの作成方法や取り扱いについては、[コントリビューションガイドライン](https://github.com/portal-dots/PortalDots/blob/4.x/CONTRIBUTING.md)をご覧ください。
+PortalDotsにおける改善要望・不具合報告、Pull Requestの作成方法や取り扱いについては、[コントリビューションガイドライン](https://github.com/portaldots/PortalDots/blob/5.x/CONTRIBUTING.md)をご覧ください。
 
 {% hint style="info" %}
 PortalDotsマニュアル(このサイト)は、PortalDotsソフトウェア本体と同様、GitHub上で公開しているオープンソースプロジェクトです。詳細は、[「PortalDotsマニュアル」の作成に貢献する](how-to-contribute-to-docs.md)をご覧ください。
@@ -14,11 +14,11 @@ PortalDotsマニュアル(このサイト)は、PortalDotsソフトウェア本�
 
 ## 関連リンク
 
-* [PortalDotsのGitHubリポジトリ](https://github.com/portal-dots/PortalDots)
-  * [README](https://github.com/portal-dots/PortalDots#readme)
-  * [コントリビューター行動規範](https://github.com/portal-dots/PortalDots/blob/4.x/CODE\_OF\_CONDUCT.md)
-  * [コントリビューションガイドライン](https://github.com/portal-dots/PortalDots/blob/4.x/CONTRIBUTING.md)
-  * [Issues](https://github.com/portal-dots/PortalDots/issues)
-  * [Pull requests](https://github.com/portal-dots/PortalDots/pulls)
-  * [Discussions (フォーラム)](https://github.com/portal-dots/PortalDots/discussions)
-  * [ライセンス(MIT License)](https://github.com/portal-dots/PortalDots/blob/4.x/LICENSE)
+* [PortalDotsのGitHubリポジトリ](https://github.com/portaldots/PortalDots)
+  * [README](https://github.com/portaldots/PortalDots#readme)
+  * [コントリビューター行動規範](https://github.com/portaldots/PortalDots/blob/5.x/CODE\_OF\_CONDUCT.md)
+  * [コントリビューションガイドライン](https://github.com/portaldots/PortalDots/blob/5.x/CONTRIBUTING.md)
+  * [Issues](https://github.com/portaldots/PortalDots/issues)
+  * [Pull requests](https://github.com/portaldots/PortalDots/pulls)
+  * [Discussions (フォーラム)](https://github.com/portaldots/PortalDots/discussions)
+  * [ライセンス(MIT License)](https://github.com/portaldots/PortalDots/blob/5.x/LICENSE)

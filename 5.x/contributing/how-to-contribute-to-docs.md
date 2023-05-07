@@ -6,7 +6,7 @@ description: 「PortalDotsマニュアル」(このサイト)のコンテンツ�
 
 「PortalDotsマニュアル」の改善に興味を持ってくださりありがとうございます。
 
-「PortalDotsマニュアル」は、PortalDotsの使い方を紹介するウェブサイトです。「PortalDotsマニュアル」のコンテンツはPortalDots本体と同様、[オープンソース](https://github.com/portal-dots/docs/blob/main/LICENSE/README.md)です。コンテンツはMarkdown形式で管理しています。また、コンテンツ改善案や追加の要望を、GitHubのPull Request機能にて受け付けております。
+「PortalDotsマニュアル」は、PortalDotsの使い方を紹介するウェブサイトです。「PortalDotsマニュアル」のコンテンツはPortalDots本体と同様、[オープンソース](https://github.com/portaldots/docs/blob/main/LICENSE/README.md)です。コンテンツはMarkdown形式で管理しています。また、コンテンツ改善案や追加の要望を、GitHubのPull Request機能にて受け付けております。
 
 PortalDotsコミュニティの発展のため、マニュアルの作成・維持管理に協力いただけますと幸いです。
 
@@ -25,7 +25,7 @@ GitHubのPull Request機能により、既存の記事内容の改善提案を�
 
 ## 新しい記事の追加を提案する
 
-PortalDotsマニュアル上に存在しないページの作成を提案したい場合は、「[マニュアル記事の新規作成提案(GitHub)](https://github.com/portal-dots/docs/tree/main/\_drafts)」をご覧ください。
+PortalDotsマニュアル上に存在しないページの作成を提案したい場合は、「[マニュアル記事の新規作成提案(GitHub)](https://github.com/portaldots/docs/tree/main/5.x/\_drafts)」をご覧ください。
 
 {% hint style="warning" %}
 `_drafts` フォルダ以外のフォルダへのページ作成は受け付けていません。

@@ -34,7 +34,7 @@ PortalDots は元々、学園祭実行委員会の内部で構築したウェブ
 
 **A. はい、大歓迎です！**
 
-PortalDots のプログラムは [GitHub 上で公開](https://github.com/portal-dots/PortalDots)しています。
+PortalDots のプログラムは [GitHub 上で公開](https://github.com/portaldots/PortalDots)しています。
 
 技術的な話になりますが、要望やバグ報告の Issue やプログラム改修依頼の Pull Request という形で PortalDots の開発に貢献していただけます。
 

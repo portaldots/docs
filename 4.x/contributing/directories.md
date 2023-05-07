@@ -4,7 +4,7 @@ description: PortalDotsを構成するディレクトリ構造を説明します
 
 # PortalDotsのディレクトリ構造
 
-[PortalDotsのGitHubリポジトリ](https://github.com/portal-dots/PortalDots)は、以下のディレクトリ構造を持ちます(2022年4月現在)。
+[PortalDotsのGitHubリポジトリ](https://github.com/portaldots/PortalDots)は、以下のディレクトリ構造を持ちます(2022年4月現在)。
 
 PortalDotsは、主にLaravelとVue.js(バージョン2)、SCSSを利用しています。
 

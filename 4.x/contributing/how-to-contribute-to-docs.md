@@ -25,7 +25,7 @@ GitHubのPull Request機能により、既存の記事内容の改善提案を�
 
 ## 新しい記事の追加を提案する
 
-PortalDotsマニュアル上に存在しないページの作成を提案したい場合は、「[マニュアル記事の新規作成提案(GitHub)](https://github.com/portal-dots/docs/tree/main/\_drafts)」をご覧ください。
+PortalDotsマニュアル上に存在しないページの作成を提案したい場合は、「[マニュアル記事の新規作成提案(GitHub)](https://github.com/portaldots/docs/tree/main/4.x/\_drafts)」をご覧ください。
 
 {% hint style="warning" %}
 `_drafts` フォルダ以外のフォルダへのページ作成は受け付けていません。

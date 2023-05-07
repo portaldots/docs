@@ -14,7 +14,7 @@ description: データベースとメールサーバーの確認ができたら�
      ![](<../../../.gitbook/assets/image (2) (1).png>)
 3. Cyberduckの画面上の「public\_html」フォルダをダブルクリックして開きます。
 4. 初期状態ではいくつかのファイルが設置されています。これらは不要なため、ファイル上で右クリックして削除します。
-5. [PortalDots.zip](https://github.com/portal-dots/PortalDots/releases/latest/download/PortalDots.zip) をダウンロードし、展開します。
+5. [PortalDots.zip](https://github.com/portaldots/PortalDots/releases/latest/download/PortalDots.zip) をダウンロードし、展開します。
 6. 展開してできたフォルダの中身を全て「public\_html」フォルダ内へアップロードします。Cyberduckの場合、Finder(macOSの場合)またはエクスプローラー(Windowsの場合)からファイルをドラッグ&ドロップしてください。
    * 隠しファイル(ドットで始まるファイル)も含めてアップロードしてください。macOS や Linux などの OS では、デフォルトではこれらのファイルは非表示になっています。macOS の場合、Finder で Command + Shift + . を押すと隠しファイルが表示されます。\
      ![](<../../../.gitbook/assets/image (3) (1) (1).png>)

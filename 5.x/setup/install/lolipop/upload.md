@@ -16,7 +16,7 @@ description: データベースとメールサーバーの確認ができたら�
    * Cyberduckの場合、「環境設定」内の「ブラウザ」タブにある「'.'で始まるファイルを表示」にチェックを入れてください\
      ![](../../../.gitbook/assets/image.png)
 5. 初期状態では welcome.html というファイルが設置されています。不要なため、welcome.html を右クリックして削除します。
-6. [PortalDots.zip](https://github.com/portal-dots/PortalDots/releases/latest/download/PortalDots.zip) をダウンロードし、展開します。
+6. [PortalDots.zip](https://github.com/portaldots/PortalDots/releases/latest/download/PortalDots.zip) をダウンロードし、展開します。
 7. 展開してできたフォルダの中身を全てアップロードします。Cyberduckの場合、Finder(macOSの場合)またはエクスプローラー(Windowsの場合)からファイルをドラッグ&ドロップしてください。
    * 隠しファイル(ドットで始まるファイル)も含めてアップロードしてください。macOS や Linux などの OS では、デフォルトではこれらのファイルは非表示になっています。macOS の場合、Finder で Command + Shift + . を押すと隠しファイルが表示されます。\
      ![](<../../../.gitbook/assets/image (5).png>)
