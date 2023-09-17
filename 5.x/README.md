@@ -18,7 +18,7 @@ PortalDotsを学園祭実行委員会に導入するにあたり、よくある�
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-### PortalDotsの導入
+### 🛠 PortalDotsの導入
 
 PortalDotsはWordPressなどのソフトウェアのように、レンタルサーバーにインストールして利用できます。ここでは、レンタルサーバーにPortalDotsをインストールする方法をご説明します。
 
@@ -32,7 +32,7 @@ PortalDotsのインストールが完了したら、学園祭参加企画の担�
 [user-registration.md](setup/user-registration.md)
 {% endcontent-ref %}
 
-### 基本機能
+### 👍 基本機能
 
 PortalDotsの基本機能と、それらの使い方をご紹介します。
 
@@ -44,7 +44,7 @@ PortalDotsの基本機能と、それらの使い方をご紹介します。
 [list.md](features/list.md)
 {% endcontent-ref %}
 
-### 学園祭参加企画向けの機能
+### 🍴 学園祭参加企画向けの機能
 
 PortalDotsの機能のうち、学園祭の参加企画向けの機能をご紹介します。
 
@@ -52,7 +52,7 @@ PortalDotsの機能のうち、学園祭の参加企画向けの機能をご紹�
 [list.md](circles/list.md)
 {% endcontent-ref %}
 
-### もっと使いこなす
+### 💪 もっと使いこなす
 
 {% content-ref url="advanced/manual-circle-registration.md" %}
 [manual-circle-registration.md](advanced/manual-circle-registration.md)
@@ -66,7 +66,7 @@ PortalDotsの機能のうち、学園祭の参加企画向けの機能をご紹�
 [markdown-guide.md](advanced/markdown-guide.md)
 {% endcontent-ref %}
 
-## 🛠️ 設定とメンテナンス <a href="#settings" id="settings"></a>
+### 🧰 設定とメンテナンス
 
 {% content-ref url="settings/update.md" %}
 [settings/update.md](settings/update.md)
@@ -76,7 +76,7 @@ PortalDotsの機能のうち、学園祭の参加企画向けの機能をご紹�
 [settings/cannot-open.md](settings/cannot-open.md)
 {% endcontent-ref %}
 
-### 開発に貢献する
+### 🧑‍💻 開発に貢献する
 
 {% content-ref url="contributing/how-to-contribute.md" %}
 [how-to-contribute.md](contributing/how-to-contribute.md)
