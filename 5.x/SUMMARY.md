@@ -48,7 +48,7 @@
 * [フォームエディターで申請フォームを作成する](advanced/form-editor.md)
 * [Markdownガイド](advanced/markdown-guide.md)
 
-## 🛠️ 設定とメンテナンス <a href="#settings" id="settings"></a>
+## 🧰 設定とメンテナンス <a href="#settings" id="settings"></a>
 
 * [PortalDotsのアップデート](settings/update.md)
 * [PortalDotsを開けなくなったとき（PortalDotsの再インストール）](settings/cannot-open.md)
