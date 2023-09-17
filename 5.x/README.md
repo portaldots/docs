@@ -66,6 +66,16 @@ PortalDotsの機能のうち、学園祭の参加企画向けの機能をご紹�
 [markdown-guide.md](advanced/markdown-guide.md)
 {% endcontent-ref %}
 
+## 🛠️ 設定とメンテナンス <a href="#settings" id="settings"></a>
+
+{% content-ref url="settings/update.md" %}
+[settings/update.md](settings/update.md)
+{% endcontent-ref %}
+
+{% content-ref url="settings/cannot-open.md" %}
+[settings/cannot-open.md](settings/cannot-open.md)
+{% endcontent-ref %}
+
 ### 開発に貢献する
 
 {% content-ref url="contributing/how-to-contribute.md" %}
