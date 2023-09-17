@@ -20,6 +20,6 @@ PortalDotsのアップデートを行うには、以下の手順に従ってく�
 
 アップデートを行ったことでPortalDotsを開けなくなってしまった場合、以下の記事を参照してPortalDotsを再インストールしてください。
 
-{% content-ref url="settings/cannot-open.md" %}
-[settings/cannot-open.md](settings/cannot-open.md)
+{% content-ref url="./cannot-open.md" %}
+[./cannot-open.md](./cannot-open.md)
 {% endcontent-ref %}
