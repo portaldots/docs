@@ -11,7 +11,6 @@ description: ロリポップ！レンタルサーバーに PortalDotsをイン�
 ## 「ロリポップ！レンタルサーバー」で PortalDots を利用するメリット・デメリット <a href="#roripoppurentarusbde-portaldots-wosurumerittodemeritto" id="roripoppurentarusbde-portaldots-wosurumerittodemeritto"></a>
 
 * 「ロリポップ！レンタルサーバー」では、利用料金の支払いにクレジットカード決済のほか、銀行振替やコンビニ決済が利用できます。
-* 「お知らせ」の検索機能はロリポップ！レンタルサーバーでは利用できません。検索機能を利用したい場合、MySQL 5.7 以上に対応した他のレンタルサーバーの利用をご検討ください。
 
 ## このマニュアルで説明する内容 <a href="#konomanyuarudesuru" id="konomanyuarudesuru"></a>
 
